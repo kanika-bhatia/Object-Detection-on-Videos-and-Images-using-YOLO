@@ -47,6 +47,6 @@ You can use any image you want after the `--image` argument. Make sure you give 
 
 Press **q** to quit the window of the image showing object detection
 
-Feel free to star â­ this repo if you find this useful.
+Feel free to star this repo if you find this useful.
 
 Thanks!
